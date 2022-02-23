@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding .py
 - 🌱 I’m currently learning .py
 - 💞️ I’m looking to collaborate on Games
-- 📫 How to reach me Discord Percy_leon#9955
+- 📫 How to reach me Discord Percy_leon#9955/ percy.maneur10@gmail.com
 
 <!---
 Percyleon9955/Percyleon9955 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
